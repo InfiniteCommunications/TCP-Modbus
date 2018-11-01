@@ -1,0 +1,36 @@
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsole\IMC.Server\IMC.Server\obj\Debug\IMC.Server.csprojAssemblyReference.cache
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsole\IMC.Server\IMC.Server\obj\Debug\IMC.Server.csproj.CoreCompileInputs.cache
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsole\IMC.Server\IMC.Server\bin\Debug\IMC.Server.exe.config
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsole\IMC.Server\IMC.Server\bin\Debug\IMC.Server.exe
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsole\IMC.Server\IMC.Server\bin\Debug\IMC.Server.pdb
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsole\IMC.Server\IMC.Server\obj\Debug\IMC.Server.exe
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsole\IMC.Server\IMC.Server\obj\Debug\IMC.Server.pdb
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Server\IMC.Server\bin\Debug\IMC.Server.exe.config
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Server\IMC.Server\bin\Debug\IMC.Server.exe
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Server\IMC.Server\bin\Debug\IMC.Server.pdb
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Server\IMC.Server\bin\Debug\SQLite.NET.dll
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Server\IMC.Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Server\IMC.Server\obj\Debug\IMC.Server.csproj.CoreCompileInputs.cache
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Server\IMC.Server\obj\Debug\IMC.Server.csproj.CopyComplete
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Server\IMC.Server\obj\Debug\IMC.Server.exe
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew\IMC.Server\IMC.Server\obj\Debug\IMC.Server.pdb
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\bin\Debug\IMC.Server.exe.config
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\bin\Debug\IMC.Server.exe
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\bin\Debug\IMC.Server.pdb
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\bin\Debug\EasyModbus.dll
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\bin\Debug\SQLite.NET.dll
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\bin\Debug\System.Data.SQLite.dll
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\obj\Debug\IMC.Server.csprojAssemblyReference.cache
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\obj\Debug\IMC.Server.csproj.CoreCompileInputs.cache
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\obj\Debug\IMC.Server.csproj.CopyComplete
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\obj\Debug\IMC.Server.exe
+C:\Users\winifred\Desktop\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\obj\Debug\IMC.Server.pdb
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\bin\Debug\IMC.Server.exe.config
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\bin\Debug\IMC.Server.exe
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\bin\Debug\IMC.Server.pdb
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\bin\Debug\EasyModbus.dll
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\obj\Debug\IMC.Server.csprojAssemblyReference.cache
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\obj\Debug\IMC.Server.csproj.CoreCompileInputs.cache
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\obj\Debug\IMC.Server.csproj.CopyComplete
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\obj\Debug\IMC.Server.exe
+C:\Users\Jeremy\Desktop\LRT\20181024_Simulator_2\Infinite.IMC.ITPMS.ServerClientInConsoleNew - 19.10.2018(DONE)\IMC.Server\IMC.Server\obj\Debug\IMC.Server.pdb
