@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2018
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMC.Server", "IMC.Server\IMC.Server.csproj", "{FCEEE6D1-5C28-4A4D-96A7-8E9B93BEBE3B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Infinite.IMC.Server", "Infinite.IMC.Server\Infinite.IMC.Server.vdproj", "{EC840BB2-3CB7-493C-960D-43F25744C141}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "InfiniteLRTSimulator", "InfiniteLRTSimulator\InfiniteLRTSimulator.vdproj", "{B73A173D-F4C6-49EE-B8E9-4B7385957B46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCEEE6D1-5C28-4A4D-96A7-8E9B93BEBE3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCEEE6D1-5C28-4A4D-96A7-8E9B93BEBE3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCEEE6D1-5C28-4A4D-96A7-8E9B93BEBE3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCEEE6D1-5C28-4A4D-96A7-8E9B93BEBE3B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC840BB2-3CB7-493C-960D-43F25744C141}.Debug|Any CPU.ActiveCfg = Debug
+		{EC840BB2-3CB7-493C-960D-43F25744C141}.Release|Any CPU.ActiveCfg = Release
+		{B73A173D-F4C6-49EE-B8E9-4B7385957B46}.Debug|Any CPU.ActiveCfg = Debug
+		{B73A173D-F4C6-49EE-B8E9-4B7385957B46}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E9E3E79-6131-4C59-B7BA-6722DB3BD934}
+	EndGlobalSection
+EndGlobal
